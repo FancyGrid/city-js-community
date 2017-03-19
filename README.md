@@ -1,6 +1,6 @@
 # City JS Community
 
-> A curated list of solid and active cities JS(JavaScript) communities.  
+> A curated list of solid and active cities JS(JavaScript) meetup communities.  
 The list is ordered alphabetically by category.
 
 ## Table of Contents(Regions)
