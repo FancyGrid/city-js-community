@@ -72,6 +72,10 @@ The list is ordered alphabetically by category.
 * [London](http://londonjs.uk) - 1,300+ followers in [twitter](https://twitter.com/london_JS)
 * [Edinburgh - Scotland JS](http:/scotlandjs.com) - 1,900+ followers in [twitter](https://twitter.com/ScotlandJS)
 
+### Ukraine
+* [Kharkiv](http://kharkivjs.org/) - 600+ followers in [twitter](https://twitter.com/kharkivjs)
+
+
 ## North America
 
 ### Canada 
