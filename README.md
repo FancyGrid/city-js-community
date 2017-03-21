@@ -103,6 +103,7 @@ The list is ordered alphabetically by category.
 * [Orlando](http://meetup.com/orlandojs) - 300+ followers in [twitter](https://twitter.com/OrlandoJSGroup)
 * [Queens](http://meetup.com/QueensJS) - 1,000+ followers in [twitter](https://twitter.com/queens_js)
 * [San Diego](http://sandiegojs.org) - 800+ followers in [twitter](https://twitter.com/sandiegojs)
+* [San Francisco - ForwardJS](http://forwardjs.com) - 8900+ followers in [twitter](https://twitter.com/forwardjs)
 
 ## Oceania
 
