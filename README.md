@@ -53,6 +53,9 @@ The list is ordered alphabetically by category.
 * [Munich](http://munichjs.org) - 1,600+ followers in [twitter](https://twitter.com/munichjs)
 * [Stuttgart](http://meetup.com/stuttgartjs) - 300+ followers in [twitter](https://twitter.com/stuttgartjs)
 
+### Poland
+* [Warsaw](http://warsawjs.com) - 350+ followers in [twitter](https://twitter.com/warsawjs)
+
 ### Russia
 * [Moscow](http://moscowjs.com) - 1,700+ followers in [twitter](https://twitter.com/moscowjs)
 
