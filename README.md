@@ -85,7 +85,9 @@ The list is ordered alphabetically by category.
 ## North America
 
 ### Canada 
+* [Montreal](http://js-montreal.org) - 1400+ followers in [twitter](https://twitter.com/jsmontreal)
 * [Ottawa](http://ottawajs.org) - 800+ followers in [twitter](https://twitter.com/ottawa_js)
+* [Toronto](http://torontojs.com) - 1300+ followers in [twitter](https://twitter.com/torontojs)
 
 ### Mexico
 * [Mexico - Eventloop](https://www.meetup.com/eventloop/) - 800+ followers in [twitter](https://twitter.com/eventloop)
