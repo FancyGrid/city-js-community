@@ -56,6 +56,9 @@ The list is ordered alphabetically by category.
 ### Poland
 * [Warsaw](http://warsawjs.com) - 300+ followers in [twitter](https://twitter.com/warsawjs)
 
+### Portugal
+* [Lisbon - require('lx')](https://www.meetup.com/require-lx) - 200+ followers in [twitter](https://twitter.com/requirelx)
+
 ### Russia
 * [Moscow](http://moscowjs.com) - 1,700+ followers in [twitter](https://twitter.com/moscowjs)
 
