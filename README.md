@@ -97,6 +97,7 @@ The list is ordered alphabetically by category.
 * [Denver - DinosaurJS](http://dinosaurjs.org) - 700+ followers in [twitter](https://twitter.com/dinosaur_js)
 * [Jersey City](http://jerseyscript.github.io) - 700+ followers in [twitter](https://twitter.com/jerseyscriptusa)
 * [Los Angeles](http://js.la) - 1,300+ followers in [twitter](https://twitter.com/jsdotla)
+* [Nashville - NashJS](https://www.meetup.com/nashjs/) - 1,300+ followers in [twitter](https://twitter.com/nash_js)
 * [New York - EmpireJS](http://empirejs.org) - 2,100+ followers in [twitter](https://twitter.com/EmpireJS)
 * [New York - ManhattanJS](http://manhattanjs.com) - 2,600+ followers in [twitter](https://twitter.com/manhattan_js)
 * [Oklahoma - OKC.js](http://okcjs.com) - 900+ followers in [twitter](https://twitter.com/OKCjs)
