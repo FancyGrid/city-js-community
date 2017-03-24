@@ -54,6 +54,7 @@ The list is ordered alphabetically by category.
 * [Stuttgart](http://meetup.com/stuttgartjs) - 300+ followers in [twitter](https://twitter.com/stuttgartjs)
 
 ### Poland
+* [Gdańsk - meet.js Gdańsk](http://meetjs.pl) - 100+ followers in [twitter](https://twitter.com/meetjsGdansk)
 * [Warsaw](http://warsawjs.com) - 300+ followers in [twitter](https://twitter.com/warsawjs)
 
 ### Portugal
