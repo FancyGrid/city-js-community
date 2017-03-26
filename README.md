@@ -35,6 +35,7 @@ The list is ordered alphabetically by category.
 ### France
 * [Paris](http://parisjs.org) - 2,500+ followers in [twitter](https://twitter.com/parisjs)
 * [Paris - dotJS](http://dotjs.io) - 3,700+ followers in [twitter](https://twitter.com/dotJS)
+* [Rennes](http://rennesjs.org) - 600+ followers in [twitter](https://twitter.com/RennesJS)
 
 ### Hungary
 * [Budapest - JSConf BP](http://jsconfbp.com) - 2,500+ followers in [twitter](https://twitter.com/jsconfbp)
@@ -48,7 +49,7 @@ The list is ordered alphabetically by category.
 
 ### Germany
 * [Berlin](http://berlinjs.org) - 3,600+ followers in [twitter](https://twitter.com/berlinjs)
-* [Cologne](http://colognejs.de) - 800+ followers in [twitter](https://twitter.com/cgnjs)
+* [Cologne](http://meetup.com/Cologne-js) - 800+ followers in [twitter](https://twitter.com/cgnjs)
 * [Hamburg - JSUnconf](http://jsunconf.eu) - 1,700+ followers in [twitter](https://twitter.com/jsunconf)
 * [Hannover](http://hannoverjs.de) - 400+ followers in [twitter](https://twitter.com/hannoverjs)
 * [Munich](http://munichjs.org) - 1,600+ followers in [twitter](https://twitter.com/munichjs)
