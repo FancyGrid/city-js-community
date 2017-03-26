@@ -47,7 +47,8 @@ The list is ordered alphabetically by category.
 * [Rome](http://romajs.org) - 200+ followers in [twitter](https://twitter.com/roma_js)
 
 ### Germany
-* [Berlin](http:///berlinjs.org) - 3,600+ followers in [twitter](https://twitter.com/berlinjs)
+* [Berlin](http://berlinjs.org) - 3,600+ followers in [twitter](https://twitter.com/berlinjs)
+* [Cologne](http://colognejs.de) - 800+ followers in [twitter](https://twitter.com/cgnjs)
 * [Hamburg - JSUnconf](http://jsunconf.eu) - 1,700+ followers in [twitter](https://twitter.com/jsunconf)
 * [Hannover](http://hannoverjs.de) - 400+ followers in [twitter](https://twitter.com/hannoverjs)
 * [Munich](http://munichjs.org) - 1,600+ followers in [twitter](https://twitter.com/munichjs)
