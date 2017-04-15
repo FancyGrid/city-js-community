@@ -89,9 +89,9 @@ The list is ordered alphabetically by category.
 ## North America
 
 ### Canada 
-* [Montreal](http://js-montreal.org) - 1400+ followers in [twitter](https://twitter.com/jsmontreal)
+* [Montreal](http://js-montreal.org) - 1,400+ followers in [twitter](https://twitter.com/jsmontreal)
 * [Ottawa](http://ottawajs.org) - 800+ followers in [twitter](https://twitter.com/ottawa_js)
-* [Toronto](http://torontojs.com) - 1300+ followers in [twitter](https://twitter.com/torontojs)
+* [Toronto](http://torontojs.com) - 1,300+ followers in [twitter](https://twitter.com/torontojs)
 
 ### Mexico
 * [Mexico - Eventloop](https://www.meetup.com/eventloop/) - 800+ followers in [twitter](https://twitter.com/eventloop)
@@ -102,6 +102,9 @@ The list is ordered alphabetically by category.
 * [Detroit](http://meetup.com/Detroit-Javascript) - 100+ followers in [twitter](https://twitter.com/detroit_js)
 * [Jersey City](http://jerseyscript.github.io) - 700+ followers in [twitter](https://twitter.com/jerseyscriptusa)
 * [Los Angeles](http://js.la) - 1,300+ followers in [twitter](https://twitter.com/jsdotla)
+
+* [Minneapolis - Midwest JS](http://midwestjs.com) - 600+ followers in [twitter](https://twitter.com/midwest_js)
+
 * [Nashville - NashJS](https://www.meetup.com/nashjs/) - 1,300+ followers in [twitter](https://twitter.com/nash_js)
 * [Nebraska](https://nebraskajs.com) - 1,200+ followers in [twitter](https://twitter.com/nebraskajs)
 * [New York - EmpireJS](http://empirejs.org) - 2,100+ followers in [twitter](https://twitter.com/EmpireJS)
