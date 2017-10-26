@@ -55,6 +55,7 @@ The list is ordered alphabetically by category.
 * [Hannover](http://hannoverjs.de) - 400+ followers in [twitter](https://twitter.com/hannoverjs)
 * [Karlsruhe](https://www.meetup.com/karlsruhejs) - 600+ followers in [twitter](https://twitter.com/KarlsruheJS)
 * [Munich](http://munichjs.org) - 1,600+ followers in [twitter](https://twitter.com/munichjs)
+* [Munich - JS Kongress](https://twitter.com/JSKongress) - 1,200+ followers in [twitter](https://twitter.com/JSKongress)
 * [Stuttgart](http://meetup.com/stuttgartjs) - 300+ followers in [twitter](https://twitter.com/stuttgartjs)
 
 ### Netherlands
