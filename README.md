@@ -12,6 +12,9 @@ The list is ordered alphabetically by category.
 
 ## Asia
 
+### Indonesia
+* [Jakarta](http://meetup.com/jakartajs) - 500+ followers in [twitter](https://twitter.com/jakartajs)
+
 ### Japan
 * [Tokyo](http://tokyojs.com) - 100+ followers in [twitter](https://twitter.com/tokyo_js)
 
