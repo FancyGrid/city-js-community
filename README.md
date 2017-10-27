@@ -24,8 +24,11 @@ The list is ordered alphabetically by category.
 
 ## Europe
 
+### Austria
+* [Vienna](https://www.meetup.com/viennajs) - 1,100+ followers in [twitter](https://twitter.com/viennajs)
+
 ### Croatia
-* [Zagreb](https://www.meetup.com/JavaScript-Zagreb/) - 500+ followers in [twitter](https://twitter.com/jszgb)
+* [Zagreb](https://www.meetup.com/JavaScript-Zagreb) - 500+ followers in [twitter](https://twitter.com/jszgb)
 
 ### Denmark
 * [Copenhagen](http://copenhagenjs.dk) - 1,200+ followers in [twitter](https://twitter.com/copenhagenjs)
