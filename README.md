@@ -24,6 +24,9 @@ The list is ordered alphabetically by category.
 
 ## Europe
 
+### Croatia
+* [Zagreb](https://www.meetup.com/JavaScript-Zagreb/) - 500+ followers in [twitter](https://twitter.com/jszgb)
+
 ### Denmark
 * [Copenhagen](http://copenhagenjs.dk) - 1,200+ followers in [twitter](https://twitter.com/copenhagenjs)
 
