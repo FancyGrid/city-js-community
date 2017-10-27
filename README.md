@@ -75,6 +75,7 @@ The list is ordered alphabetically by category.
 
 ### Russia
 * [Moscow](http://moscowjs.com) - 1,700+ followers in [twitter](https://twitter.com/moscowjs)
+* [Sankt Petersburg - PiterJS](http://piterjs.org) - 800+ followers in [twitter](https://twitter.com/gopiterjs)
 
 ### Spain
 * [Barcelona - BeersJS](https://www.meetup.com/AngularJS-Beers) - 170+ followers in [twitter](https://twitter.com/BeersJS)
