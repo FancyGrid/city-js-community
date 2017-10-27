@@ -34,6 +34,7 @@ The list is ordered alphabetically by category.
 
 ### France
 * [Amiens](http://amiensjs.org) - 100+ followers in [twitter](https://twitter.com/AmiensJS)
+* [Brest](https://www.meetup.com/fr-FR/BrestJS/) - 300+ followers in [twitter](https://twitter.com/BrestJS)
 * [Paris](http://parisjs.org) - 2,500+ followers in [twitter](https://twitter.com/parisjs)
 * [Paris - dotJS](http://dotjs.io) - 3,700+ followers in [twitter](https://twitter.com/dotJS)
 * [Rennes](http://rennesjs.org) - 600+ followers in [twitter](https://twitter.com/RennesJS)
