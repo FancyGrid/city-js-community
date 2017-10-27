@@ -25,6 +25,7 @@ The list is ordered alphabetically by category.
 ## Europe
 
 ### Austria
+* [Graz](https://www.meetup.com/grazjs) - 500+ followers in [twitter](https://twitter.com/grazjs)
 * [Vienna](https://www.meetup.com/viennajs) - 1,100+ followers in [twitter](https://twitter.com/viennajs)
 
 ### Croatia
