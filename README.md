@@ -16,7 +16,7 @@ The list is ordered alphabetically by category.
 * [Jakarta](http://meetup.com/jakartajs) - 500+ followers in [twitter](https://twitter.com/jakartajs)
 
 ### Singapore
-* [Singapore](http://jsconf.asia) - 1,700+ followers in [twitter](https://twitter.com/jsconfasia)
+* [Singapore](http://jsconf.asia) - 1,900+ followers in [twitter](https://twitter.com/jsconfasia)
 
 
 ## Europe
