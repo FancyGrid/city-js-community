@@ -15,9 +15,6 @@ The list is ordered alphabetically by category.
 ### Indonesia
 * [Jakarta](http://meetup.com/jakartajs) - 500+ followers in [twitter](https://twitter.com/jakartajs)
 
-### Japan
-* [Tokyo](http://tokyojs.com) - 100+ followers in [twitter](https://twitter.com/tokyo_js)
-
 ### Philippines
 * [Manila](http://manilajs.com) - 200+ followers in [twitter](https://twitter.com/manila_js)
 
