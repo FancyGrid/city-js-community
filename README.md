@@ -47,7 +47,7 @@ The list is ordered alphabetically by category.
 * [Rennes](http://rennesjs.org) - 600+ followers in [twitter](https://twitter.com/RennesJS)
 
 ### Hungary
-* [Budapest - JSConf BP](http://jsconfbp.com) - 2,500+ followers in [twitter](https://twitter.com/jsconfbp)
+* [Budapest - JSConf BP](http://jsconfbp.com) - 1,400+ followers in [twitter](https://twitter.com/jsconfbp)
 
 ### Iceland
 * [Reykjavik - JSConf Iceland](http://jsconf.is) - 700+ followers in [twitter](https://twitter.com/jsconfis)
