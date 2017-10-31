@@ -33,7 +33,7 @@ The list is ordered alphabetically by category.
 
 ### Finland
 * [Helsinki](http://helsinkijs.org) - 1,900+ followers in [twitter](https://twitter.com/helsinkijs)
-* [Jyväskylä - SurviveJS](http://survivejs.com) - 3,700+ followers in [twitter](https://twitter.com/survivejs)
+* [Jyväskylä - SurviveJS](http://survivejs.com) - 4,900+ followers in [twitter](https://twitter.com/survivejs)
 * [Tampere](http://meetabit.com/communities/127) - 300+ followers in [twitter](https://twitter.com/TampereJS)
 
 ### France
