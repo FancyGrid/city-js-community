@@ -153,3 +153,4 @@ The list is ordered alphabetically by category.
 
 ### Colombia
 * [Bogota](http://bogotajs.com) - 2,100+ followers in [twitter](https://twitter.com/BogotaJS)
+* [Medellin](http://medellinjs.org) - 2,400+ followers in [twitter](https://twitter.com/MedellinJS)
