@@ -4,11 +4,17 @@
 The list is ordered alphabetically by category.
 
 ## Table of Contents(Regions)
+*  [Africa](#africa)
 *  [Asia](#asia)
 *  [Europe](#europe)
 *  [North America](#north-america)
 *  [Oceania](#oceania)
 *  [South America](#south-america)
+
+## Africa
+
+### South Africa
+* [Johannesburg - JS in SA Conference](http://jsinsa.com) - 1,100+ followers in [twitter](https://twitter.com/jsinsa)
 
 ## Asia
 
