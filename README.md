@@ -150,3 +150,6 @@ The list is ordered alphabetically by category.
 ### Brazil
 * [Fortaleza - JSConf BR](http://jsconfbr.org) - 600+ followers in [twitter](https://twitter.com/jsconfbr)
 * [Porto Alegre - BrazilJS](http://braziljs.org) - 6,700+ followers in [twitter](https://twitter.com/braziljs)
+
+### Colombia
+* [Bogota](http://bogotajs.com) - 2,100+ followers in [twitter](https://twitter.com/BogotaJS)
