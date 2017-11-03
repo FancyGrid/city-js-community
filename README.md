@@ -143,6 +143,9 @@ The list is ordered alphabetically by category.
 
 ## South America
 
+### Argentina
+* [Buenos Aires](http://meetupjs.com.ar) - 1,700+ followers in [twitter](https://twitter.com/Meetupjs_ar)
+
 ### Brazil
 * [Fortaleza - JSConf BR](http://jsconfbr.org) - 600+ followers in [twitter](https://twitter.com/jsconfbr)
 * [Porto Alegre - BrazilJS](http://braziljs.org) - 6,700+ followers in [twitter](https://twitter.com/braziljs)
