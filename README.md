@@ -61,6 +61,7 @@ The list is ordered alphabetically by category.
 ### Italy
 * [Milan](http://milanojs.com) - 900+ followers in [twitter](https://twitter.com/Milano_JS)
 * [Rome](http://romajs.org) - 200+ followers in [twitter](https://twitter.com/roma_js)
+* [Verona - JS Italian Conf](http://jsday.it) - 1,900+ followers in [twitter](https://twitter.com/jsconfit)
 
 ### Germany
 * [Berlin](http://berlinjs.org) - 3,600+ followers in [twitter](https://twitter.com/berlinjs)
