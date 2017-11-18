@@ -133,6 +133,7 @@ The list is ordered alphabetically by category.
 * [New York - ManhattanJS](http://manhattanjs.com) - 2,600+ followers in [twitter](https://twitter.com/manhattan_js)
 * [Oklahoma - OKC.js](http://okcjs.com) - 900+ followers in [twitter](https://twitter.com/OKCjs)
 * [Orlando](http://meetup.com/orlandojs) - 300+ followers in [twitter](https://twitter.com/OrlandoJSGroup)
+* [Philadelphia - LibertyJS](http://libertyjs.com) - 400+ followers in [twitter](https://twitter.com/liberty_js)
 * [Queens](http://meetup.com/QueensJS) - 1,000+ followers in [twitter](https://twitter.com/queens_js)
 * [San Diego](http://sandiegojs.org) - 800+ followers in [twitter](https://twitter.com/sandiegojs)
 * [San Francisco - ForwardJS](http://forwardjs.com) - 8900+ followers in [twitter](https://twitter.com/forwardjs)
