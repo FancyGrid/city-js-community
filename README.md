@@ -124,12 +124,11 @@ The list is ordered alphabetically by category.
 * [Detroit](http://meetup.com/Detroit-Javascript) - 100+ followers in [twitter](https://twitter.com/detroit_js)
 * [Jersey City](http://jerseyscript.github.io) - 700+ followers in [twitter](https://twitter.com/jerseyscriptusa)
 * [Los Angeles](http://js.la) - 1,300+ followers in [twitter](https://twitter.com/jsdotla)
-
 * [Minneapolis - Midwest JS](http://midwestjs.com) - 600+ followers in [twitter](https://twitter.com/midwest_js)
-
 * [Nashville - NashJS](https://www.meetup.com/nashjs/) - 1,300+ followers in [twitter](https://twitter.com/nash_js)
 * [Nebraska](https://nebraskajs.com) - 1,200+ followers in [twitter](https://twitter.com/nebraskajs)
 * [New York - EmpireJS](http://empirejs.org) - 2,100+ followers in [twitter](https://twitter.com/EmpireJS)
+* [New York, Florida - BuzzJS](http://buzzjs.com) - 500+ followers in [twitter](https://twitter.com/BuzzJS)
 * [New York - ManhattanJS](http://manhattanjs.com) - 2,600+ followers in [twitter](https://twitter.com/manhattan_js)
 * [Oklahoma - OKC.js](http://okcjs.com) - 900+ followers in [twitter](https://twitter.com/OKCjs)
 * [Orlando](http://meetup.com/orlandojs) - 300+ followers in [twitter](https://twitter.com/OrlandoJSGroup)
