@@ -72,6 +72,7 @@ The list is ordered alphabetically by category.
 * [Karlsruhe](https://www.meetup.com/karlsruhejs) - 600+ followers in [twitter](https://twitter.com/KarlsruheJS)
 * [Munich](http://munichjs.org) - 1,600+ followers in [twitter](https://twitter.com/munichjs)
 * [Munich - JS Kongress](https://twitter.com/JSKongress) - 1,200+ followers in [twitter](https://twitter.com/JSKongress)
+* [Nürnberg - FrankenJS](https://frankenjs.org) - 300+ followers in [twitter](https://twitter.com/FrankenJS)
 * [Stuttgart](http://meetup.com/stuttgartjs) - 300+ followers in [twitter](https://twitter.com/stuttgartjs)
 
 ### Lithuania
