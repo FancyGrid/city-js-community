@@ -74,6 +74,9 @@ The list is ordered alphabetically by category.
 * [Munich - JS Kongress](https://twitter.com/JSKongress) - 1,200+ followers in [twitter](https://twitter.com/JSKongress)
 * [Stuttgart](http://meetup.com/stuttgartjs) - 300+ followers in [twitter](https://twitter.com/stuttgartjs)
 
+### Lithuania
+* [Vilnius](http://vilniusjs.lt) - 300+ followers in [twitter](https://twitter.com/vilniusjs)
+
 ### Netherlands
 * [Amsterdam](https://amsterdamjs.com/) - 900+ followers in [twitter](https://twitter.com/amsterdamjs)
 
