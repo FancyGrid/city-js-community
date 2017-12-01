@@ -92,6 +92,9 @@ The list is ordered alphabetically by category.
 * [Moscow](http://moscowjs.com) - 1,700+ followers in [twitter](https://twitter.com/moscowjs)
 * [Sankt Petersburg - PiterJS](http://piterjs.org) - 800+ followers in [twitter](https://twitter.com/gopiterjs)
 
+### Serbia
+* [Belgrade - JS Belgrade](http://jsbelgrade.org) - 600+ followers in [twitter](https://twitter.com/JSBelgrade)
+
 ### Spain
 * [Barcelona - BeersJS](https://www.meetup.com/AngularJS-Beers) - 170+ followers in [twitter](https://twitter.com/BeersJS)
 * [Barcelona - CinemaJS](https://cinemajs.tech) - 600+ followers in [twitter](https://twitter.com/CinemaJS)
