@@ -101,6 +101,7 @@ The list is ordered alphabetically by category.
 * [Istanbul - Jstanbul](https://www.meetup.com/jstanbul/) - 800+ followers in [twitter](https://twitter.com/jstanbulorg)
 
 ### UK
+* [Leeds](http://leedsjs.com) - 900+ followers in [twitter](https://twitter.com/leedsjs)
 * [London](http://londonjs.uk) - 1,600+ followers in [twitter](https://twitter.com/london_JS)
 * [Edinburgh - Scotland JS](http:/scotlandjs.com) - 2,000+ followers in [twitter](https://twitter.com/ScotlandJS)
 
