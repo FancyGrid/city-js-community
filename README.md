@@ -115,6 +115,7 @@ The list is ordered alphabetically by category.
 ### Ukraine
 * [Kharkiv](http://kharkivjs.org) - 600+ followers in [twitter](https://twitter.com/kharkivjs)
 * [Kyiv](http://kyivjs.org) - 1,500+ followers in [twitter](https://twitter.com/kyivjs)
+* [Odessa](http://odessajs.org) - 600+ followers in [twitter](https://twitter.com/OdessaJS)
 
 ## North America
 
