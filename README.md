@@ -88,6 +88,9 @@ The list is ordered alphabetically by category.
 ### Portugal
 * [Lisbon - require('lx')](https://www.meetup.com/require-lx) - 200+ followers in [twitter](https://twitter.com/requirelx)
 
+### Romania
+* [Cluj-Napoca - JSHeroes](https://jsheroes.io/) - 1,200+ followers in [twitter](https://twitter.com/jsheroes)
+
 ### Russia
 * [Moscow](http://moscowjs.com) - 1,700+ followers in [twitter](https://twitter.com/moscowjs)
 * [Sankt Petersburg - PiterJS](http://piterjs.org) - 800+ followers in [twitter](https://twitter.com/gopiterjs)
