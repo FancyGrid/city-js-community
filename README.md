@@ -67,6 +67,7 @@ The list is ordered alphabetically by category.
 * [Berlin](http://berlinjs.org) - 3,600+ followers in [twitter](https://twitter.com/berlinjs)
 * [Cologne](http://meetup.com/Cologne-js) - 800+ followers in [twitter](https://twitter.com/cgnjs)
 * [Darmstadt - enterJS](https://www.enterjs.de) - 700+ followers in [twitter](https://twitter.com/enterjsconf)
+* [Hamburg](https://www.meetup.com/hamburg-js) - 1,000+ followers in [twitter](https://twitter.com/hhjs)
 * [Hamburg - JSUnconf](http://jsunconf.eu) - 1,700+ followers in [twitter](https://twitter.com/jsunconf)
 * [Hannover](http://hannoverjs.de) - 400+ followers in [twitter](https://twitter.com/hannoverjs)
 * [Karlsruhe](https://www.meetup.com/karlsruhejs) - 600+ followers in [twitter](https://twitter.com/KarlsruheJS)
