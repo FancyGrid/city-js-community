@@ -136,6 +136,7 @@ The list is ordered alphabetically by category.
 * [Denver - DinosaurJS](http://dinosaurjs.org) - 700+ followers in [twitter](https://twitter.com/dinosaur_js)
 * [Detroit](http://meetup.com/Detroit-Javascript) - 100+ followers in [twitter](https://twitter.com/detroit_js)
 * [Jersey City](http://jerseyscript.github.io) - 700+ followers in [twitter](https://twitter.com/jerseyscriptusa)
+* [Hawaiʻi - JSConf Hawaiʻi](https://jsconfhi.com/) - 1,200+ followers in [twitter](https://twitter.com/JSConfHi)
 * [Los Angeles](http://js.la) - 1,300+ followers in [twitter](https://twitter.com/jsdotla)
 * [Minneapolis - Midwest JS](http://midwestjs.com) - 600+ followers in [twitter](https://twitter.com/midwest_js)
 * [Nashville - NashJS](https://www.meetup.com/nashjs/) - 1,300+ followers in [twitter](https://twitter.com/nash_js)
