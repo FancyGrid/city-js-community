@@ -63,6 +63,9 @@ The list is ordered alphabetically by category.
 * [Rome](http://romajs.org) - 200+ followers in [twitter](https://twitter.com/roma_js)
 * [Verona - JS Italian Conf](http://jsday.it) - 1,900+ followers in [twitter](https://twitter.com/jsconfit)
 
+### Ireland
+* [Dublin](https://meetup.com/DublinJS/) - 900+ followers in [twitter](https://twitter.com/dublinjs)
+
 ### Germany
 * [Berlin](http://berlinjs.org) - 3,600+ followers in [twitter](https://twitter.com/berlinjs)
 * [Cologne](http://meetup.com/Cologne-js) - 800+ followers in [twitter](https://twitter.com/cgnjs)
