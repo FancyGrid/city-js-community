@@ -89,6 +89,9 @@ The list is ordered alphabetically by category.
 * [Gdańsk - meet.js Gdańsk](http://meetjs.pl) - 100+ followers in [twitter](https://twitter.com/meetjsGdansk)
 * [Warsaw](http://warsawjs.com) - 300+ followers in [twitter](https://twitter.com/warsawjs)
 
+### Malta
+* [MaltaJS](http://www.maltajs.com/) - 140+ members on [facebook](https://www.facebook.com/groups/941691142568690/)
+
 ### Portugal
 * [Lisbon - require('lx')](https://www.meetup.com/require-lx) - 200+ followers in [twitter](https://twitter.com/requirelx)
 
