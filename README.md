@@ -21,6 +21,9 @@ The list is ordered alphabetically by category.
 ### Indonesia
 * [Jakarta](http://meetup.com/jakartajs) - 500+ followers in [twitter](https://twitter.com/jakartajs)
 
+### Kazakhstan
+* [Almaty](https://almatyjs.kz/) - 400+ followers in [telegram](https://twitter.com/almaty_js)
+
 ### Singapore
 * [Singapore](http://jsconf.asia) - 1,900+ followers in [twitter](https://twitter.com/jsconfasia)
 
